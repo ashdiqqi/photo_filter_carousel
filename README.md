@@ -1,16 +1,26 @@
-# photo_filter_carousel
+Nama    : Fatriya Ibnu Ash shidiqqi
 
-A new Flutter project.
+Kelas   : TI - 3B
 
-## Getting Started
+NIM     : 2241720138
 
-This project is a starting point for a Flutter application.
+# #09 | Kamera
 
-A few resources to get you started if this is your first Flutter project:
+## Praktikum 1: Mengambil Foto dengan Kamera di Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![alt text](assets/P1.gif)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Praktikum 2: Membuat photo filter carousel
+![alt text](assets/P2.gif)
+
+## Tugas Praktikum
+
+1. Gabungkan hasil praktikum 1 dengan hasil praktikum 2 sehingga setelah melakukan pengambilan foto, dapat dibuat filter carouselnya! <br>
+![alt text](assets/TGS.gif)
+
+2. Jelaskan maksud void async pada praktikum 1? <br>
+void: Merupakan tipe return dari fungsi. Ketika fungsi dideklarasikan sebagai void, fungsi tersebut tidak mengembalikan nilai apapun. <br>
+async: Merupakan fungsi asynchronous, yang berarti fungsi ini dapat melakukan operasi secara paralel atau menunggu operasi lain selesai tanpa menghentikan eksekusi kode utama. <br>
+3. Jelaskan fungsi dari anotasi @immutable dan @override ? <br>
+@immutable: Merupakan objek dari class tersebut tidak bisa diubah setelah dibuat. Umumnya digunakan untuk widget yang tetap.  <br>
+@override: Merupakan metode yang menggantikan atau meng-override method di class induk, membantu menjaga konsistensi dan menghindari kesalahan.
